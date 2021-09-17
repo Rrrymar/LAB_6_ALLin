@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab_6_ALLIn.iml" filepath="$PROJECT_DIR$/Lab_6_ALLIn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-application/client-application.iml" filepath="$PROJECT_DIR$/client-application/client-application.iml" />
+    </modules>
+  </component>
+</project>
